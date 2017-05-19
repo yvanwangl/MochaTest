@@ -1,0 +1,31 @@
+{
+  "name": "MochaTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvanwangl/MochaTest.git"
+  },
+  "keywords": [],
+  "author": "Yvanwang <https://blog.yvanwang.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvanwangl/MochaTest/issues"
+  },
+  "homepage": "https://github.com/yvanwangl/MochaTest#readme",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "mocha": "^3.4.1",
+    "mz": "^2.6.0"
+  },
+  "devDependencies": {
+    "supertest": "^3.0.0"
+  }
+}

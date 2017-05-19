@@ -1,0 +1,1 @@
+module.exports = (...rest) => Array.from(rest).reduce((a, sum)=> sum+=a, 0);
